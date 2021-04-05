@@ -62,4 +62,8 @@ C++11에 추가된 Lambda Expression의 특징과 내용을 살펴보고, 실용
   - Effective C#
   - CLR via C#
 
+## 협찬
+
+- 한국 마이크로스프트
+
 행사 관련 문의는 utilforever@gmail.com 으로 해주시기 바랍니다.
