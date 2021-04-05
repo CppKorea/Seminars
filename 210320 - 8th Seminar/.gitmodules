@@ -1,0 +1,3 @@
+[submodule "4 - 쉽게 따라하는 V8 임베딩/Dependencies/v8-cmake"]
+	path = 4 - 쉽게 따라하는 V8 임베딩/Dependencies/v8-cmake
+	url = https://github.com/paxbun/v8-cmake
