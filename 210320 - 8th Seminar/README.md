@@ -8,7 +8,7 @@
 
 ## 세미나 영상 다시 보기
 
-https://www.youtube.com/embed/5ePdbjnfYLs
+https://youtu.be/5ePdbjnfYLs
 
 ## 프로그램
 
