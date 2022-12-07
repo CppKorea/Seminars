@@ -2,8 +2,6 @@
 
 ###### 2021년 10월 09일에 진행되었던 C++ Korea 9회 세미나 발표 자료 및 예제 코드
 
-<img src="./Logo.png">
-
 [C++ Korea](https://www.facebook.com/groups/cppkorea/)에서 9번째로 주최하는 세미나는 C++을 사용하는 다양한 분야에 관해 여러 지식들을 공유합니다.
 
 ## 세미나 영상 다시 보기
